@@ -13,16 +13,22 @@
     --grey-4: rgba(40, 39, 44, 1);
 }
 
-.into {}
+.intro {}
+
+.header {}
 .header .header__inner {}
-.header .header__inner {}
+
 
 .logo {}
-.logo .logo__img {}
 
-.logo .logo__text {}
+.logo .logo__img {
+}
 
-.logo .logo__text.logo__text--highlight {}
+.logo .logo__text {
+}
+
+.logo .logo__text.logo__text--highlight {
+}
 
 
 .menu {}
@@ -33,9 +39,10 @@
 .menu .menu__item.menu__item--active {
 }
 
-.hero {}
-.hero .hero__bg {
 
+.hero {}
+
+.hero .hero__bg {
 }
 
 .hero .hero__hdl {
@@ -49,3 +56,24 @@
 
 .hero .hero__btn {
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
